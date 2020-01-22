@@ -1,7 +1,7 @@
 ﻿using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
-
+//hola
 public class Wall : MonoBehaviour
 {
     //Sprite alternativo para mostrar después de que Muro haya sido atacado por el jugador.
